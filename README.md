@@ -1,4 +1,4 @@
-# Excel-Data-Mining-Project
+# Excel-Data-Mining-Project: Prediction of Lung Cancer Mortality Rate
 Summary of Data Mining Project: Prediction of Lung Cancer Mortality Rate
 Introduction
 This project aimed to predict lung cancer mortality rates across U.S. counties using socioeconomic variables. Data was gathered from sources like census.gov, clinicaltrials.gov, and cancer.gov. The goal was to assess how factors such as income, education, health coverage, and employment influence lung cancer death rates.
